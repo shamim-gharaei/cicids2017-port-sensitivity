@@ -1,0 +1,7 @@
+Experiment,Accuracy (%),Macro F1 (%)
+A: all features,99.95,99.95
+"B: all features, ports changed in test",99.89,99.89
+C: port feature removed,99.95,99.95
+D1: 13 features,99.96,99.96
+"D2: 13 features, ports changed in test",90.83,89.73
+D3: same 13 features minus port,99.95,99.95

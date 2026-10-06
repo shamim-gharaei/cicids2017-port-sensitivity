@@ -1,0 +1,4 @@
+Seed,Port rank (all features),D1 accuracy (%),D2 accuracy (%),DDoS missed in D2 (%)
+42,21,99.96,90.83,36.6
+1,22,99.96,90.92,36.1
+7,20,99.97,90.68,37.2
